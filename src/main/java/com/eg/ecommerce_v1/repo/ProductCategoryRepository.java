@@ -1,6 +1,6 @@
 package com.eg.ecommerce_v1.repo;
 
-import com.eg.ecommerce_v1.model.ProductCategory;
+import com.eg.ecommerce_v1.entity.ProductCategory;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.web.bind.annotation.CrossOrigin;
